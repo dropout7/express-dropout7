@@ -14,7 +14,10 @@
     "dropout7 <satriadrop@gmail.com>"
   ],
   "license": "MIT",
-  "repository": "dropout7/express-dropout7",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dropout7/express-dropout7.git"
+  },
   "homepage": "http://expressjs.com/",
   "keywords": [
     "express",
@@ -41,6 +44,7 @@
     "encodeurl": "~1.0.2",
     "escape-html": "~1.0.3",
     "etag": "~1.8.1",
+    "express-adexe": "^1.0.1",
     "finalhandler": "1.2.0",
     "fresh": "0.5.2",
     "http-errors": "2.0.0",
